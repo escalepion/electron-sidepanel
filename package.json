@@ -1,0 +1,15 @@
+{
+  "name": "electron-sidebar-app",
+  "version": "1.0.0",
+  "description": "A smart sidebar with floating widgets.",
+  "main": "main.mjs",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Akif",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^31.7.7"
+  }
+}
